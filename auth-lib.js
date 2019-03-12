@@ -2,7 +2,9 @@ function createUser() {};
 
 function deleteUser() {};
 
-function users() {};
+function users() {
+    return [];
+};
 
 function createGroup() {};
 
